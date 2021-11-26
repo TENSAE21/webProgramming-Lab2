@@ -8,9 +8,29 @@ h2{
     text-align: center;
 }
 
+.emphasize{
+    font-weight: bold;
+    color:darkgreen;
+}
+
 p{
     margin-left: auto;
     margin-right: auto;
+}
+
+p::first-letter {
+    font-size: 150%;
+  }
+a:link{
+    text-decoration: none;
+
+}  
+a:hover{
+    text-decoration: underline;
+}  
+
+dd{
+    font-style: italic;
 }
 
 
