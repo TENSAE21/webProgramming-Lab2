@@ -1,0 +1,25 @@
+body{
+    background-color: whitesmoke;
+    font-family: Helvetica, Arial, sans-serif;
+
+}
+h2{
+    color:darkolivegreen;
+    text-align: center;
+}
+
+p{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+
+
+
+/*Change the color of at least two elements
+• Change the font properties (family, size, weight, or style) of at least two elements. Some
+standard fonts: Arial, Arial Black, Verdana, Trebuchet MS,Georgia, Tahoma, Courier
+New, Times New Roman
+• Change at least one other thing (e.g. background color, text alignment, etc.)*/
